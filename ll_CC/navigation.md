@@ -23,6 +23,7 @@
 [Download](pages/download.md)
 
 <!-- A more complex navigation example: ----------------------------------------
+---------------------------------------------------------------------------- -->
 
 [Menu Item 1]()
 
@@ -40,7 +41,7 @@
 
 [Menu Item 3](pages/item3.md)
 
----------------------------------------------------------------------------- -->
+
 
 <!--
   -- Change the Language
@@ -48,12 +49,12 @@
   -->
 
 <!--
+-->
 [Change the Language]()
 
   * [English (United States)](/en_US/)
   * [English (United Kingdom)](/en_GB/)
   * [Italian](/it/)
--->
 
 <!--
   -- Let the user choose a theme
